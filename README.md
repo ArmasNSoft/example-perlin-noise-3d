@@ -10,8 +10,11 @@ https://github.com/ArmasNSoft/example-perlin-noise-3d
 
 ## Segundo Commit
 Hemos añadido el siguiente scripy a nuestro proyecto:
-https://github.com/ArmasNSoft/example-perlin-noise-3d/blob/bf40d7df6d6664f70ea6c9c508212fa6b5e806a0/Assets/Scripts/TestScript.cs
+```csharp
+[Ver código](https://github.com/ArmasNSoft/example-perlin-noise-3d/blob/main/Assets/Scripts/TestScript.cs#L1-L10)
+```
+
 
 ## Tercer Commit
 Hemos añadido la siguiente imagen a nuestro proyecto:
-https://github.com/ArmasNSoft/example-perlin-noise-3d/blob/bf40d7df6d6664f70ea6c9c508212fa6b5e806a0/Assets/img/logo.png
+(https://github.com/ArmasNSoft/example-perlin-noise-3d/blob/bf40d7df6d6664f70ea6c9c508212fa6b5e806a0/Assets/img/logo.png)
